@@ -1,6 +1,4 @@
 # Playstore App Analysis
-SC6 Team5
-
 
 <p align="center">
   <img src="./Images/Google PLAYSTORE APP.png">
@@ -9,19 +7,22 @@ SC6 Team5
 #About
 ---
 
----
+
+
+
 
 Dataset Obtained from:  https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
 
+
+#Contributors
+---
+@kishchoy
+@jneoh001
+
+#Problem Defintion
 ---
 
-Flow:
 
-Data Cleaning
-EDA
-Clasification Tree ( attempt 1 )
-MLR ( attempt 2 )
-XGBoost ( Attempt 3 )
 
 ---
 
@@ -49,4 +50,19 @@ F1 Score :
 ---
 *References*
 
-Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
+- Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
+- https://xgboost.readthedocs.io/en/stable/ 
+- https://www.educative.io/edpresso/what-is-the-f1-score
+- https://seaborn.pydata.org/index.html
+- https://towardsdatascience.com/jupyter-and-markdown-cbc1f0ea6406
+
+
+
+Flow:
+
+Data Cleaning
+EDA
+Clasification Tree ( attempt 1 )
+MLR ( attempt 2 )
+XGBoost ( Attempt 3 )
+
