@@ -38,7 +38,7 @@ F1 Score :
 
 <p> XGBoost </p>
 <p align ="center">
-  ![alt text](https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png)
+  <img src="./Images/XGBoost_LOGO.png">
 </p>
 
 ---
