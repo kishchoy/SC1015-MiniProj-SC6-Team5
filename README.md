@@ -2,7 +2,9 @@
 SC6 Team5
 
 
-<img src="./Images/Google PLAYSTORE APP.png">
+<p align="center">
+  <img src="./Images/Google PLAYSTORE APP.png">
+</p>
 ---
 
 Dataset Obtained from:  https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
@@ -34,7 +36,10 @@ F1 Score :
 ---
 *What we have learnt/utilized beyond this course*
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png)
+<p> XGBoost </p>
+<p align ="center">
+  ![alt text](https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png)
+</p>
 
 ---
 *References*
