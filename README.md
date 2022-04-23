@@ -34,7 +34,7 @@ F1 Score :
 
 
 ---
-*What we have learnt/utilized beyond this course*
+- 7 *What we have learnt/utilized beyond this course*
 
 <p> XGBoost </p>
 <p align ="center">
