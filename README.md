@@ -45,7 +45,7 @@ What we have learnt/utilized beyond this course
 ---
 
 
-<p align="center" style="background-color:powderblue"> XGBoost </p>
+<p align="center" background-color:"blue"> XGBoost </p>
 <p align ="center">
   <img src="./Images/XGBoost_logo.png">
 </p>
