@@ -6,7 +6,8 @@
 
 About
 ---
-
+This is our group's project that we have done for module SC1015 Introduction to Data Science and Artifical Intelligence. 
+We have chosen to
 
 
 
@@ -33,22 +34,28 @@ Models Used
 3. XGBoost
 
 
-Conclusion
+
+What we have learnt/utilized BEYOND this course
 ---
-F1 Score :
+* F1 Score
+* XGBoost
+* One-Hot Encoding
+* Multi Linear Regression
+*
 
 
-
-
-
-What we have learnt/utilized beyond this course
----
 
 
 <p align="center" style="background-color:powderblue;"> XGBoost </p>
 <p align ="center">
   <img src="./Images/XGBoost_logo.png">
 </p>
+
+
+Conclusion
+---
+F1 Score :
+
 
 
 References
