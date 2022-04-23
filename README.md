@@ -16,8 +16,8 @@ Dataset Obtained from:  https://www.kaggle.com/datasets/gauthamp10/google-playst
 
 Contributors
 ---
-@kishchoy
-@jneoh001
+* @kishchoy
+* @jneoh001
 
 Problem Defintion
 ---
