@@ -2,7 +2,7 @@
 SC6 Team5
 
 
-<img src="./Img/Google PLAYSTORE APP.png">
+<img src="./Images/Google PLAYSTORE APP.png">
 ---
 
 Dataset Obtained from:  https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
