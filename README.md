@@ -18,25 +18,27 @@ Contributors
 ---
 * @kishchoy
 * @jneoh001
+* @ RAMMMMMM's GITHUB
 
 Problem Defintion
 ---
+1. Figure out what are the most important factors for an app to be successful in the Google Play Store?
+2. Are we able to predict the number of installs based on app info/reviews?
 
 
-
+Models Used
 ---
+1. Classification Tree
+2. Multi Linear Regression 
+3. XGBoost
 
+
+Conclusion
+---
 F1 Score :
 
 
-**Rubric**
-* 10% - Come up with Problem definition based on a dataset
-* 10% - Data Preparation and Cleaning
-* 20% -EDA/Visualization to gather relevant insights
-* 20% -Machine learning techniques to solve specific problem
-* 20%- Presentation of data-driven insights and the recommendations
-* 10%-Quality of your final team presentation and overall impressions
-* 10% for learning something new and doing something beyond this course
+
 
 
 What we have learnt/utilized beyond this course
@@ -60,7 +62,8 @@ References
 - https://towardsdatascience.com/jupyter-and-markdown-cbc1f0ea6406
 
 
-
+DELETE LATER
+----
 Flow:
 
 Data Cleaning
@@ -68,4 +71,13 @@ EDA
 Clasification Tree ( attempt 1 )
 MLR ( attempt 2 )
 XGBoost ( Attempt 3 )
+
+**Rubric**
+* 10% - Come up with Problem definition based on a dataset
+* 10% - Data Preparation and Cleaning
+* 20% -EDA/Visualization to gather relevant insights
+* 20% -Machine learning techniques to solve specific problem
+* 20%- Presentation of data-driven insights and the recommendations
+* 10%-Quality of your final team presentation and overall impressions
+* 10% for learning something new and doing something beyond this course
 
