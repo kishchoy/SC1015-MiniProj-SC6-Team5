@@ -1,6 +1,8 @@
 # SC1015-MiniProj
 SC6 Team5
 
+
+<img src="./img/Google PLAYSTORE APP.png">
 ---
 
 Dataset Obtained from:  https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
