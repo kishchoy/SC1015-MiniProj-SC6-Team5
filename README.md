@@ -39,16 +39,19 @@ F1 Score :
 * 10% for learning something new and doing something beyond this course
 
 
+What we have learnt/utilized beyond this course
 ---
-7 *What we have learnt/utilized beyond this course*
+
 
 <p> XGBoost </p>
 <p align ="center">
   <img src="./Images/XGBoost_logo.png">
 </p>
 
+
+References
 ---
-*References*
+
 
 - Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
 - https://xgboost.readthedocs.io/en/stable/ 
