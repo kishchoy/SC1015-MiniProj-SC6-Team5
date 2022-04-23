@@ -32,7 +32,7 @@ F1 Score :
 ---
 *What we have learnt/utilized beyond this course*
 
-XGBoost ![alt text](https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png)
 
 ---
 *References*
