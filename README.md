@@ -1,15 +1,20 @@
-# SC1015-MiniProj
+# Playstore App Analysis
 SC6 Team5
 
 
 <p align="center">
   <img src="./Images/Google PLAYSTORE APP.png">
 </p>
+
+#About
+---
+
 ---
 
 Dataset Obtained from:  https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
 
 ---
+
 Flow:
 
 Data Cleaning
