@@ -4,7 +4,7 @@
   <img src="./Images/Google PLAYSTORE APP.png">
 </p>
 
-#About
+About
 ---
 
 
@@ -14,12 +14,12 @@
 Dataset Obtained from:  https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
 
 
-#Contributors
+Contributors
 ---
 @kishchoy
 @jneoh001
 
-#Problem Defintion
+Problem Defintion
 ---
 
 
@@ -44,7 +44,7 @@ F1 Score :
 
 <p> XGBoost </p>
 <p align ="center">
-  <img src="./Images/XGBoost_LOGO.png">
+  <img src="./Images/XGBoost_logo.png">
 </p>
 
 ---
