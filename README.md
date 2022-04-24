@@ -71,14 +71,14 @@ Although none of the models was able to determine an attribute that was able to 
 
 Lastly, we then used XGBoost to narrow down the most important factors that influence installs.
 
----
-
 In conclusion, to reiterate our answer to the questions.
 
 Q1 - More important factors are `Price`, `Content Rating` and `Rating Count`.
 
 Q2 - Unfortunately, we are unable to make a model that can accurately predict installs based on app info.
 
+Reflection
+---
 We feel that more data is needed to accurately predict installs. We feel that the dataset is currently insufficient to do so.
 
 Given more valuable data in relation to Minimum Installs, such as Marketing budget for the app, we feel that this can improve the accuracy of prediction as data like this is more valuable. 
