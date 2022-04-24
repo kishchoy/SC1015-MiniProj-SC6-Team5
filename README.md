@@ -19,7 +19,7 @@ Contributors
 ---
 * @kishchoy
 * @jneoh001
-* @r4mp4g3r
+* @RAMTEJ001
 
 Problem Defintion
 ---
