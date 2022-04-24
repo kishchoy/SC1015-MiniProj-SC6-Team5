@@ -21,7 +21,7 @@ Dataset Obtained from:  https://www.kaggle.com/datasets/gauthamp10/google-playst
 Problem Defintion
 ---
 
-Upon glancing at this dataset, we were interested in what we could discover from the data about Google Play Store Apps. Specifically, we wondered if there there was a ''formula'' for success for apps in the Play Store. Also, we were very curious on whether success could be predicted based on certain data.
+Upon glancing at this dataset, we were interested in what we could discover from the data about Google Play Store Apps. Specifically, we wondered if there was a ''formula'' for success for apps in the Play Store. Also, we were very curious on whether success could be predicted based on certain data.
 
 Therefore, we came up with the following 2 main questions that would help guide us.
 
