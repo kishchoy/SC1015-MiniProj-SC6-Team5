@@ -55,6 +55,29 @@ What we have learnt/utilized BEYOND this course
 Conclusion
 ---
 
+We had originally narrowed some factors determining success in our EDA from our analysis. Afterwards, we tried to predict number of installs using Classification Tree but that did not work out well as it had a low accuracy of about `0.31`.
+
+We proceeded to then try Multi Linear Regression (MLR) Model to improve prediction by trying out another model to see if that would work, but to no avail because it also had a low accuracy as its Explained Variance was low at `0.29`.
+
+Although none of the models was able to determine an attribute that was able to predict the number of installs well, we tried to increase the accuracy by reducing the number of attributes that we dealt with , filtering and cleaning the data.
+
+Lastly, we then used XGBoost to narrow down the most important factors that influence installs.
+
+---
+
+In conclusion, to reiterate our answer to the questions.
+
+Q1 - More important factors are `Price`, `Content Rating` and `Rating Count`.
+
+Q2 - Unfortunately, we are unable to make a model that can accurately predict installs based on app info.
+
+We feel that more data is needed to accurately predict installs. We feel that the dataset is currently insufficient to do so.
+
+Given more valuable data in relation to Minimum Installs, such as Marketing budget for the app, we feel that this can improve the accuracy of prediction as data like this is more valuable. 
+
+Overall, this was a very interesting dataset and we gained a lot of insight after analysing it.
+
+
 
 
 
