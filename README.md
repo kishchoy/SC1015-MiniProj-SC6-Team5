@@ -19,7 +19,7 @@ Contributors
 ---
 * @kishchoy
 * @jneoh001
-* @ RAMMMMMM's GITHUB
+* @r4mp4g3r
 
 Problem Defintion
 ---
