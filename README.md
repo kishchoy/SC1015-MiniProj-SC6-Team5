@@ -55,9 +55,9 @@ What we have learnt/utilized BEYOND this course
 
 Individual Contributions :)
 ---
-@kishchoy - EDA, EDA Analysis, Machine Learning
-@jneoh001 - EDA, EDA Analysis, Machine Learning
-@RAMTEJ001 - EDA, Machine Learning, Conclusion
+* @kishchoy - EDA, EDA Analysis, Machine Learning
+* @jneoh001 - EDA, EDA Analysis, Machine Learning
+* @RAMTEJ001 - EDA, Machine Learning, Conclusion
 
 
 Conclusion and Reflection
