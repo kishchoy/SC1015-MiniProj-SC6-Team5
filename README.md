@@ -4,25 +4,27 @@
   <img src="./Images/Google PLAYSTORE APP.png">
 </p>
 
+Contributors
+---
+* @kishchoy 
+* @jneoh001 
+* @RAMTEJ001
+
 About
 ---
 This is our group's project that we have done for module SC1015 Introduction to Data Science and Artifical Intelligence. 
-We have chosen to
 
-
-
+We will be analysing a dataset with a size of approiximately `2 million` data.
 
 Dataset Obtained from:  https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
 
-
-Contributors
----
-* @kishchoy
-* @jneoh001
-* @RAMTEJ001
-
 Problem Defintion
 ---
+
+Upon glancing at this dataset, we were interested in what we could discover from the data about Google Play Store Apps. Specifically, we wondered if there there was a ''formula'' for success for apps in the Play Store. Also, we were very curious on whether success could be predicted based on certain data.
+
+Therefore, we came up with the following 2 main questions that would help guide us.
+
 1. Figure out what are the most important factors for an app to be successful in the Google Play Store?
 2. Are we able to predict the number of installs based on app info/reviews?
 
@@ -51,8 +53,14 @@ What we have learnt/utilized BEYOND this course
   <img src="./Images/XGBoost_logo.png">
 </p>
 
+Individual Contributions :)
+---
+@kishchoy - EDA, EDA Analysis, Machine Learning
+@jneoh001 - EDA, EDA Analysis, Machine Learning
+@RAMTEJ001 - EDA, Machine Learning, Conclusion
 
-Conclusion
+
+Conclusion and Reflection
 ---
 
 We had originally narrowed some factors determining success in our EDA from our analysis. Afterwards, we tried to predict number of installs using Classification Tree but that did not work out well as it had a low accuracy of about `0.31`.
@@ -91,3 +99,7 @@ References
 - https://seaborn.pydata.org/index.html
 - https://towardsdatascience.com/jupyter-and-markdown-cbc1f0ea6406
 - https://deepai.org/machine-learning-glossary-and-terms/f-score
+- https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/
+- https://medium.com/machine-learning-with-python/multiple-linear-regression-implementation-in-python-2de9b303fc0c
+- https://www.statology.org/one-hot-encoding-in-python/
+- https://www.datacamp.com/community/tutorials/xgboost-in-python
