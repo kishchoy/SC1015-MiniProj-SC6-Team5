@@ -41,7 +41,7 @@ What we have learnt/utilized BEYOND this course
 * XGBoost
 * One-Hot Encoding
 * Multi Linear Regression
-*
+
 
 
 
